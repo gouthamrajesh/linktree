@@ -14,7 +14,7 @@ Technologies used are HTML and CSS
 --> **Open VS Code and open the particular folder<br>
 --> **Open terminal and choose bash and type the following commands<br>
 * Git commands ::<br>
---> Fork the repository 
+--> Fork the repository <br>
 --> git clone //forked link//<br>
 --> cd linktree<br>
 /*Do the needful changes*/<br>
