@@ -5,16 +5,17 @@ The project is that of making a personalized linktree without using third party 
 ## Link to project walkthrough
 [link to video]
 ## How it Works ?
-Explaining the working of project
+The project is a simple front end structure. Inorder to make changes or make a personal Linktree using the project all that is required is to clone the project and then do the needful updation in the code as per the user. No backend for custom updation is integrated in this phase of the project.
 ## Technologies and Libraries used
 Technologies used are HTML and CSS
 ## How to configure
-1. <h4>Git Manual to configure the project</h4><br>
+1. <h4>Git Manual to configure the project</h4>
 --> **Setup a local file for the repo namely = "linktree_project"<br>
 --> **Open VS Code and open the particular folder<br>
 --> **Open terminal and choose bash and type the following commands<br>
-Git commands ::<br>
---> git clone https://github.com/gouthamrajesh/linktree.git<br>
+2. <h4>Git commands ::</h4><br>
+--> Fork the repository 
+--> git clone //forked link//<br>
 --> cd linktree<br>
 /*Do the needful changes*/<br>
 --> git add .<br>
@@ -22,6 +23,9 @@ Git commands ::<br>
 /*Add the update done on the Message portion*/<br>
 --> git push origin main<br>
 ## How to Run
-Instructions for running
+1. Complete the configuration setup
+2. The project uses basic HTML and CSS stack for development so make sure instal required extensions for HTML and CSS.
+3. Live Server extension is must to run the code
+4. Open the index.html file and left click somewhere in the code to run the code in a localhost server.
 ## Improvements Required
 Animation for buttons and loaders for the page can be integrated.
