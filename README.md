@@ -9,7 +9,17 @@ Explaining the working of project
 ## Technologies and Libraries used
 Technologies used are HTML and CSS
 ## How to configure
-#Git Manual to configure the project
+1. <h4>Git Manual to configure the project</h4>
+--> **Setup a local file for the repo namely = "linktree_project"
+--> **Open VS Code and open the particular folder
+--> **Open terminal and choose bash and type the following commands
+Git commands ::
+--> git clone https://github.com/gouthamrajesh/linktree.git
+--> cd linktree
+/*Do the needful changes*/
+--> 
+--> 
+--> 
 ## How to Run
 Instructions for running
 ## Improvements Required
