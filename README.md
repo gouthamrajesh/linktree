@@ -3,7 +3,7 @@ The project is that of making a personalized linktree without using third party 
 ## Maintainers
 1. <a href="https://github.com/gouthamrajesh">Goutham Rajesh</a>
 ## Link to project walkthrough
-[link to video]
+* <a href="https://drive.google.com/file/d/12od6-cFsXQ0Id23TFvfKYk6CXJdNZ8mO/view?usp=sharing">Click here ot see the video</a>*
 ## How it Works ?
 The project is a simple front end structure. Inorder to make changes or make a personal Linktree using the project all that is required is to clone the project and then do the needful updation in the code as per the user. No backend for custom updation is integrated in this phase of the project.
 ## Technologies and Libraries used
