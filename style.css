@@ -1,0 +1,117 @@
+body
+{
+    background-image: url(./img/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    /*background-size: 100% 100%;  --Only when background image need to fitted fully--*/
+    letter-spacing: 1px;
+}
+.profile-pic
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 75px;
+    height: auto;
+    max-width: 200px;
+    border-radius: 50%;
+}
+.profile-name
+{
+    text-align: center;
+    padding: 30px;
+    font-size: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+.profile-about
+{
+    text-align: center;
+    margin-top: -20px;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(0, 0, 0);
+}
+a.links
+{
+    text-decoration: none;
+    color: rgb(51, 252, 68);
+}
+a.links:visited
+{
+    text-decoration: rgb(0, 0, 0);
+}
+.urls
+{
+    text-align: center;
+    margin-top: 20px;
+    border: 1px solid rgb(223, 48, 77);
+    border-width: 2px;
+    display: block;
+    width: 500px;
+    height: auto;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    font-size: 23px;
+    background-color: rgba(20, 21, 21, 0.496);
+}
+a.urls
+{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    transition: color;
+}
+a.urls:hover
+{
+    color: #101820FF;
+    background-color: rgb(201, 188, 77);
+}
+
+/*==For Small Desktop with width of 700px==*/
+@media (min-width: 700px) and (max-width: 1090px) {
+    .urls
+    {
+        width:90%;
+    }
+    body
+    {
+        background-size: cover;
+    }
+}
+  
+/*==Tablet (Portrait) Design for a width of 768px==*/
+@media (min-width: 768px) and (max-width: 979px) {
+    .urls
+    {
+        width:90%;
+    }
+    body
+    {
+        background-size: cover;
+    }
+}
+/*==Mobile (Portrait) Design for a width of 320px==*/
+@media screen and (max-width: 767px) {
+    .urls
+    {
+        width:90%;
+    }
+    body
+    {
+        background-size: cover;
+    }
+  }
+/*==Mobile (Landscape) Design for a width of 480px==*/
+@media screen and (min-width: 480px) and (max-width: 767px) {
+    .urls
+    {
+        width:90%;
+    }
+    body
+    {
+        background-size: cover;
+    }
+}
